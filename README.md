@@ -1,1 +1,1 @@
-# antiSSS (Social - Sex - Sugar)
+# antiSSS (Social - *** - Sugar)
