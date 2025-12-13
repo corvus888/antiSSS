@@ -1,7 +1,3 @@
-
-
-và đây #  Quantitative Research Career Roadmap
-
 ##  Goal
 
 Become a Quantitative Researcher or Quant PM at a top-tier hedge fund, asset manager, or proprietary trading firm (e.g., Jane Street, Citadel, DE Shaw, Two Sigma, AQR, Renaissance Technologies).
@@ -237,4 +233,5 @@ Quantitative research is a highly technical, data-driven, and alpha-focused care
 * A clear research portfolio that shows your thinking and results
 
 Build, test, publish, repeat.
-tôi biết idea tôi lộn xộn, nhưng hãy giúp tôi, và gắn thêm 1 trang web là https://www.quantconnect.com/learning để học
+
+
